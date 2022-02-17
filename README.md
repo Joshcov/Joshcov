@@ -1,4 +1,3 @@
-- 👋 Hello there,
 
 <img src="![](https://github.com/Joshcov/Joshcov/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)"
 
