@@ -16,7 +16,7 @@ I'm an IT student eager to work as a Frontend Web developer paving my way in bec
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Java Scrpit</strong></span><br>
+            <span><strong>JavaScrpit</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascrpit/javascrpit-original.svg">
             </td>
             <td width="80px" align="center">
