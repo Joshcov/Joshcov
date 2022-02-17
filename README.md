@@ -1,7 +1,5 @@
-- 👋 Hello everyone, this is your man Joshua!
-- 👀 I’m interested in tech, sports, videogames
-- 🌱 I’m currently learning JavaScript/CSS/Python
-- 💞️ I’m looking to collaborate on Projects to improve my knowledge
-- 👦🏾 Pronouns, He/Him
+- 👋 Hello everyone, this is your man, Joshua!
+I'm an IT student eager to work as a Frontend Web developer paving my way in becoming a fullstack and experienced in my field of study, which will help me grow to be more valuable to the market.
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joshcov)](https://github.com/anuraghazra/github-readme-stats)
