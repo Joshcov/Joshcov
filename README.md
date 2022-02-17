@@ -1,5 +1,8 @@
 - 👋 Hello there,
 
+<img src="![](https://github.com/Joshcov/Joshcov/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)"
+
+
 I'm Joshua Cofie an IT student eager to work as a Frontend Web developer paving my way in becoming a fullstack and experienced in my field of study, which will help me grow to be more valuable to the market.
 
 
